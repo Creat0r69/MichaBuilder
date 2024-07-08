@@ -2017,20 +2017,20 @@ footer {
 
 .btn:hover {
     background: #ffe482;
-    -webkit-box-shadow: 0 1px 0 #19334a;
-    box-shadow: 0 1px 0 #19334a
+    -webkit-box-shadow: 0 1px 0 #f67903;
+    box-shadow: 0 1px 0 #f87902
 }
 
 .btn_blue {
-    background: #2596ff;
+    background: #F6851B;
     color: #fff;
-    border: 2px solid #19334a;
+    border: 2px solid #c87126;
     -webkit-box-shadow: none;
     box-shadow: none
 }
 
 .btn_blue:hover {
-    background: #3fa2ff;
+    background: #F6851B;
     -webkit-box-shadow: none;
     box-shadow: none
 }
